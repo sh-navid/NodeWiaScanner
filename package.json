@@ -2,18 +2,5 @@
   "name": "nodewiascanner",
   "version": "1.0.0",
   "description": "NodeJS, WIA, ImageScanner",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sh-navid/NodeWiaScanner.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sh-navid/NodeWiaScanner/issues"
-  },
-  "homepage": "https://github.com/sh-navid/NodeWiaScanner#readme"
+  "main": "scanner.js"
 }
