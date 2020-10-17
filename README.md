@@ -14,3 +14,6 @@ So i configured and connect Node in which way that can communicate with scanner
 ___
 To run vbs using NodeJS:
 https://stackoverflow.com/questions/47218117/run-vbs-script-with-node
+
+___
+True, that sounds simple; However, the combination of these really takes an hour or two. And may be help someone.
